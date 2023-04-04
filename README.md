@@ -1,6 +1,5 @@
 - 👋 Hey, I’m @Profaned17
-- 🌱 I’m currently learning JavaScript and software.
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning webdevelopment.
 - 📫 How to reach me instagram/__profaned
 
 <!---
