@@ -1,5 +1,5 @@
 - 👋 Hey, I’m @Profaned17
-- 🌱 I’m currently learning webdevelopment.
+- 🌱 I’m currently learning Full stack development.
 - 📫 How to reach me instagram/__profaned
 
 <!---
